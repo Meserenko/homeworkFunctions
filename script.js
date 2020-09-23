@@ -22,26 +22,33 @@
 // function dayOfWeek(day) {
 //   switch (day) {
 //     case 1:
-//       return("Понеділок");
+//       alert("Понеділок");
+//       break;
 //     case 2:
-//       return("Вівторок");
+//       alert("Вівторок");
+//       break;
 //     case 3:
-//       return("Середа");
+//       alert("Середа");
+//       break;
 //     case 4:
-//       return("Четвер");
+//       alert("Четвер");
+//       break;
 //     case 5:
-//       return("П'ятниця");
+//       alert("П'ятниця");
+//       break;
 //     case 6:
-//       return("Субота");
+//       alert("Субота");
+//       break;
 //     case 7:
-//       return("Неділя");
+//       alert("Неділя")
+//       break;
 //     default:
-//       console.log('Потрібно ввести в діапазоні від 1 до 7');
+//       alert('Потрібно ввести в діапазоні від 1 до 7');
 //   }
-//
+// return day;
 // }
 //
-// console.log(dayOfWeek(3));
+// console.log(dayOfWeek(4));
 
 
 
